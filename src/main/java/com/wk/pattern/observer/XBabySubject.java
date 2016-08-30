@@ -1,4 +1,4 @@
-package com.wk.Pattern;
+package com.wk.pattern.observer;
 
 public class XBabySubject extends BabySubject {
 

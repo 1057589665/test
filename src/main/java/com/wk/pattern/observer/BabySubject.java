@@ -1,4 +1,4 @@
-package com.wk.Pattern;
+package com.wk.pattern.observer;
 
 import java.util.ArrayList;
 import java.util.List;
